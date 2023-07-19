@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/71198">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-15</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/56114">
+        <pgterms:name>Ciccotti, Ettore</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>Il tramonto della schiavitù nel mondo antico</dcterms:title>
+    <pgterms:marc260>  $aItaly :$bBocca, $c1899.</pgterms:marc260>
+    <pgterms:marc508>Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images made available by The Internet Archive)</pgterms:marc508>
+    <pgterms:marc904>https://archive.org/details/iltramontodellas00cicc</pgterms:marc904>
+    <pgterms:marc905>20220925112710ciccotti</pgterms:marc905>
+    <pgterms:marc906>1899</pgterms:marc906>
+    <pgterms:marc907>IT</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Na3a2952430be456baa5a2d1d22164918">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">it</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71198/71198-h/71198-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/71198"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">985414</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-15T14:34:11</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N71c34a2246f243ef84e22ca50be73f68">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71198/71198-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/71198"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743312</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-15T14:34:11</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3d01af1bf5764b5bb2de1c9f9e300824">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71198/71198-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/71198"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273989</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-15T14:34:12</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc88b527b19bb4b60beff47d8031aedf9">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na621b4f994d94972aecc418287ccc7ac">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/71198/71198-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/71198"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677721</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-07-15T14:34:12</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N09c4fc40fbcd47a9bcd58b9ceca39ae7">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7e738343980e48a494be8878d1c96800">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+</rdf:RDF>

@@ -1,11 +1,16 @@
 _repo: Il-tramonto-della-schiavitu-nel-mondo-antico_71198
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71198-h/images/cover.jpg
 creator:
   author:
     agent_name: Ciccotti, Ettore
     gutenberg_agent_id: '56114'
     url: http://www.gutenberg.org/2009/agents/56114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71198#Il-tramonto-della-schiavitu-nel-mondo-antico
 gutenberg_issued: '2023-07-15'
 identifiers:
   gutenberg: '71198'
